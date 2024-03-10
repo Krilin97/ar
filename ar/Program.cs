@@ -18,6 +18,7 @@
             {
                 Console.Write(array[i]);
             }
+            Console.ReadKey();
         }
     }
 }
